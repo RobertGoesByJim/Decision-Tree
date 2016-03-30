@@ -3,7 +3,6 @@
 Have you done a lot of the research up-front, or are you doing much of it early in your timeline, to find out most, if not all of the requirements your product or service needs to satisfy? And knowing what your thing needs to do, you likely also know *how* it’s going to do most of the things it needs to do?
 
 -   Examples:
-
     -   With some known set of needs to satisfy, you know you need mapping software,. After a research phase, you decide on Google Maps to satisfy those needs - you know what it does, how it does it, how to interface, what you want it to do, and how to make it do that – the “implementation algorithm” is pretty straightforward. You know facts, the software has a known set of capabilities, and there’s really no trick to making it go.
 
     -   You need to prepare a server farm to run a large application in-house. You may need to schedule a number of procurement activities well in-advance of “Go-Live.”
