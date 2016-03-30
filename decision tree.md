@@ -21,13 +21,13 @@ Is the thing you want to build “still kind of fuzzy,” is the concept or tech
 
 Is the algorithm for implementation unknown? Will you need to :
 
--   Test some theories?
+-   Test some theories or hypotheses?
 
 -   Clarify the vision, or objectives, through experimentation?
 
     Are you comfortable presenting quick implementations of concepts to stakeholders so that they can solidify their vision, then making quick course-corrections based on their feedback?
 
-Is the primary thing you’re building software, and/or innovative, leading-edge, a “half-baked idea?” (*By the way, leading-edge and innovative software, products, and services, are often unknown, and by nature even “half-baked” - and that’s ok. Some of the possibilities and details will need to be discovered.*)
+Is the primary thing you’re building software, and/or innovative, leading-edge, a “half-baked idea?” (*By the way, the capabilities of leading-edge and innovative software, products, and services, are often unknown, and by nature even “half-baked” - and that’s ok. Some of the possibilities and details will need to be discovered.*)
 
 Does what you’re building require significant discovery, or learning “spikes?”
 
